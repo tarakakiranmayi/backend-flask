@@ -22,22 +22,23 @@ Ensure you have the following installed:
 1. Clone the repository:
    
    git clone https://github.com/tarakakiranmayi/backend-flask.git
+   
    cd backend-flask
    
 
-2. Create a virtual environment (optional but recommended):
+3. Create a virtual environment (optional but recommended):
    
    python -m venv venv
+   
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    
 
-3. Install dependencies:
+5. Install dependencies:
    
    pip install Flask Flask-PyMongo pymongo dnspython
 
-   
 
-4. Set up MongoDB:
+6. Set up MongoDB:
 
    Start MongoDB (locally or using a cloud service).
    
@@ -45,7 +46,7 @@ Ensure you have the following installed:
    
    Create a collection named User:- db.createCollection("User")
 
-5. Run the Flask application:
+7. Run the Flask application:
    
    python app.py
    
