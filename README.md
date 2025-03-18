@@ -120,28 +120,45 @@ Ensure you have the following installed:
 ## Sample Requests & Responses
 
 
-![alt text](https://github.com/tarakakiranmayi/backend-flask/blob/main/image-1.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
+## 
+## API Testing Screenshots
+
+### 1️⃣ Get All Users (GET Request)
+![Get All Users](image-1.png)
+
+### 2️⃣ Create User with Invalid Email
+![Invalid Email](image-2.png)
+
+### 3️⃣ Create User with Invalid Age
+![Invalid Age](image-3.png)
+
+### 4️⃣ Create User with Valid Input
+![User Created](image-4.png)
+
+### 5️⃣ Update User Using ID (PUT Request)
+![Update User](image-5.png)
+
+### 6️⃣ User Details Updated
+![User Updated](image-6.png)
+
+### 7️⃣ Wrong ID Given for Update
+![User Not Found](image-7.png)
+
+### 8️⃣ Delete User Using ID
+![User Deleted](image-8.png)
+
+### 9️⃣ Wrong ID Given for Deletion
+![User Not Found](image-9.png)
+
 ## Demo Video
-<figure class="video_container">
-  <iframe src="https://github.com/tarakakiranmayi/backend-flask/blob/main/backend%20video%20-%20Made%20with%20Clipchamp.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
-📽️ Demo Video:(https://github.com/tarakakiranmayi/backend-flask/blob/main/backend%20video%20-%20Made%20with%20Clipchamp.mp4)
+
+📽️ Demo Video:(https://drive.google.com/file/d/1ZGv4-pa9VZIMEtgg8uqkIQ895AGiY4UX/view?usp=sharing)
 
 
 
 
 ## Author
-- Your Name
+- Kiranmayi
 - GitHub: https://github.com/tarakakiranmayi
 
 ## License
