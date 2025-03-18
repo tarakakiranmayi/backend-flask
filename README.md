@@ -21,7 +21,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    
-   git clone https://github.com/tarakakiranmyi/backend-flask.git
+   git clone https://github.com/tarakakiranmayi/backend-flask.git
    cd backend-flask
    
 
@@ -101,6 +101,7 @@ Ensure you have the following installed:
 - Request Body (JSON):
   {
     "name": "John Smith",
+     "email":  "johndoe@gmail.com"
     "age": 30
   }
   
@@ -119,7 +120,7 @@ Ensure you have the following installed:
 ## Sample Requests & Responses
 
 
-![alt text](image.png)
+![alt text](https://github.com/tarakakiranmayi/backend-flask/blob/main/image-1.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
@@ -137,7 +138,7 @@ Ensure you have the following installed:
 
 ## Author
 - Your Name
-- GitHub: [tarakakiranmayi](https://github.com/tarakakiranmayi)
+- GitHub: https://github.com/tarakakiranmayi
 
 ## License
 This project is open-source and available under the MIT License.
