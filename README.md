@@ -117,12 +117,21 @@ Ensure you have the following installed:
   "User deleted successfully!"
   
 ## Sample Requests & Responses
-(Screenshots will be added here later)
 
 
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
 ## Demo Video
-(Video link will be added here later)
+📽️ **Demo Video:** [Watch the video](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/video.mp4)
+
 
 
 
