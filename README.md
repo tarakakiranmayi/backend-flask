@@ -33,14 +33,18 @@ Ensure you have the following installed:
 
 3. Install dependencies:
    
-   pip install -r requirements.txt
-   
-
-4. Ensure MongoDB is running:
-   
-   create database name flaskdatabase and creat collection as User
+   pip install Flask Flask-PyMongo pymongo dnspython
 
    
+
+4. Set up MongoDB:
+
+   Start MongoDB (locally or using a cloud service).
+   
+   Open MongoDB shell and create a database:- use flaskdatabase
+   
+   Create a collection named User:- db.createCollection("User")
+
 5. Run the Flask application:
    
    python app.py
@@ -101,7 +105,7 @@ Ensure you have the following installed:
 - Request Body (JSON):
   {
     "name": "John Smith",
-     "email":  "johndoe@gmail.com"
+     "email":  "johndoe@gmail.com",
     "age": 30
   }
   
