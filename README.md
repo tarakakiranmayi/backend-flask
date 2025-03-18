@@ -38,9 +38,9 @@ Ensure you have the following installed:
 
 4. Ensure MongoDB is running:
    
-   mongod --dbpath /path/to/mongodb/data
-   
+   create database name flaskdatabase and creat collection as User
 
+   
 5. Run the Flask application:
    
    python app.py
